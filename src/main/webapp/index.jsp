@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello CBIT devops team!</h2>
 </body>
 </html>
